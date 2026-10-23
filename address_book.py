@@ -72,4 +72,3 @@ while True:
                     bok.iloc[I,3]=S
                 print(bok)
     x='4'
-    x='4'
